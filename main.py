@@ -17,7 +17,7 @@ btn.place(x=630,y=500)
 
 #--------------------------------------------------------------------------------------------------
 
-label3=tk.Label(tag,text="ENTER YOUR FIRST NAME ",
+label3=tk.Label(tag,text="ENTER YOUR FULL NAME ",
                      fg="white",
                      bg="black",)
 label3.place(x=430,y=85)
